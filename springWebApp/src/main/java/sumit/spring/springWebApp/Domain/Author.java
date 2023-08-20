@@ -1,10 +1,9 @@
 package sumit.spring.springWebApp.Domain;
-import java.awt.print.Book;
+//import java.awt.print.Book;
 import java.util.Objects;
 import java.util.Set;
 import java.util.HashSet;
 import jakarta.persistence.*;
-import jakarta.persistence.GenerationType;
 
 @Entity
 public class Author {
@@ -102,4 +101,3 @@ public class Author {
 	
 	
 }
-
